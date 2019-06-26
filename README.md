@@ -7,13 +7,13 @@ Application with integration in NAO Robot to physiotherapy theme.
 Class: TAMI (TÓPICOS AVANÇADOS EM MÍDIA E INTERAÇÃO 2)
 
 
-Students Name: Sotero Jr., Sthefanie, Mozart Jr. and Anny Caroliny.
+Students Name: `Sotero Jr., Sthefanie, Mozart Jr. and Anny Caroliny.`
 
 
-Students Emails: {srsj2,sdm2,mmaj,acsv2}@cin.ufpe.br
+Students Emails: `{srsj2,sdm2,mmaj,acsv2}@cin.ufpe.br`
 
 
-Project Created: 2019-05-20
+Project Created: `2019-05-20`
 
 
 
